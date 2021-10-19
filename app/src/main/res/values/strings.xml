@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">QuizNator</string>
+    <string name="button_load_url">load url</string>
+    <string name="type_url">type url</string>
+</resources>
